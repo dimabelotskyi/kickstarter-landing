@@ -1,3 +1,3 @@
-[DEMO LINK](https://dimabelotskyi.github.io/kickstarter-landing/)
+- [DEMO LINK](https://dimabelotskyi.github.io/kickstarter-landing/)
 
-Created by using HTML, SCSS and JavaScript
+- Created by using HTML, SCSS and JavaScript
